@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Gesture calculator</string>
+    <string name="action_settings">Settings</string>
+    <string name="clearString">Clear</string>
+    <string name="divByZeroString">Infinity</string>
+    <string name="hintString">Here will be your expression</string>
+    <string name="resultString">Result</string>
+    <string name="wrongFormatString">Wrong format.</string>
+</resources>

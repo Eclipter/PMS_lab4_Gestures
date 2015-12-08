@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Жестовый калькулятор</string>
+    <string name="action_settings">Настройки</string>
+    <string name="clearString">Очистить</string>
+    <string name="divByZeroString">Бесконечность</string>
+    <string name="hintString">Здесь будет ваше выражение</string>
+    <string name="resultString">Итог</string>
+    <string name="wrongFormatString">Неверный формат.</string>
+</resources>
